@@ -151,5 +151,4 @@ If you are looking for a developer/team to help you build an admin panel on Lara
 [link-author]: https://tabacitu.ro
 
 [link-contributors]: ../../contributors
-
-[link-contributors]: enriquexl
+## enriquexl
