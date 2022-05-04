@@ -149,4 +149,7 @@ If you are looking for a developer/team to help you build an admin panel on Lara
 [link-packagist]: https://packagist.org/packages/backpack/crud
 [link-downloads]: https://packagist.org/packages/backpack/crud
 [link-author]: https://tabacitu.ro
+
 [link-contributors]: ../../contributors
+
+
